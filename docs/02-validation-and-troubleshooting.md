@@ -71,7 +71,7 @@ Resolution:
 
 A private address such as:
 
-```text
+```
 192.168.50.30
 ```
 
