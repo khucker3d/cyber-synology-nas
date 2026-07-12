@@ -1,31 +1,4 @@
-# Validation and Troubleshooting
-
-## Validation Checklist
-
-| Test | Result |
-|---|---|
-| NAS discovered | Passed |
-| DSM installed | Passed |
-| Storage pool created | Passed |
-| Volume created | Passed |
-| Initial drive check completed | Passed |
-| Storage healthy | Passed |
-| Reserved address configured | Passed |
-| Administrator MFA enabled | Passed |
-| Built-in accounts disabled | Passed |
-| Standard user created | Passed |
-| SMB enabled | Passed |
-| Windows access | Passed |
-| macOS access | Passed |
-| Cross-platform visibility | Passed |
-| Remote access | Passed |
-| S.M.A.R.T. schedules | Passed |
-| Data scrubbing schedule | Passed |
-| Email notifications | Passed |
-| Configuration export | Passed |
-| Dedicated data backup | Pending |
-
----
+Troubleshooting
 
 ## Drive Check Appears Stuck
 
