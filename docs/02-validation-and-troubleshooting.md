@@ -25,6 +25,8 @@
 | Configuration export | Passed |
 | Dedicated data backup | Pending |
 
+---
+
 ## Drive Check Appears Stuck
 
 Symptoms:
@@ -43,6 +45,8 @@ Actions:
 
 Storage tasks continue on the NAS independently of the browser page.
 
+---
+
 ## DHCP Reservation Fails
 
 Check:
@@ -53,6 +57,8 @@ Check:
 - The NAS MAC address is correct
 - The network controller is the DHCP server
 - No existing reservation uses the same IP or MAC
+
+---
 
 ## User Shows Password Pending
 
@@ -67,6 +73,8 @@ Resolution:
 3. Confirm the account belongs only to the standard users group.
 4. Verify the status changes to normal.
 
+---
+
 ## Local Address Fails Away From Home
 
 A private address such as:
@@ -79,6 +87,8 @@ is available only on the local network or through a VPN.
 
 Use the approved remote-access method when offsite.
 
+---
+
 ## SMB Authentication Problems
 
 Check:
@@ -89,6 +99,8 @@ Check:
 - Guest access is not being used
 - Cached Windows credentials are not conflicting
 - The username is the NAS account, not necessarily the local computer username
+
+---
 
 ## Restore Validation
 
