@@ -40,7 +40,7 @@ This project demonstrates storage deployment, network integration, account harde
 
 ## Architecture
 
-```text
+```
 Internet
    |
 ISP Gateway
@@ -121,7 +121,7 @@ Managed Switch
 
 The current public example uses a single-drive storage pool.
 
-```text
+```
 One drive failure = storage unavailable
 ```
 
