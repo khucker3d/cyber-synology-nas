@@ -109,7 +109,7 @@ https://192.168.50.30:5001
 
 ## 9. Create a Standard User
 
-Create a daily-use account:
+Create daily-use account:
 
 ```
 Username: nasuser
@@ -121,7 +121,7 @@ Use it for SMB, mobile access, and routine file operations.
 
 ## 10. Enable Login Protection
 
-Recommended baseline:
+Baseline:
 
 ```
 Auto Block:
@@ -214,8 +214,6 @@ Do not directly expose:
 TCP 445
 TCP 5001
 ```
-
-Do not forward SMB to the internet.
 
 ## 16. Schedule S.M.A.R.T. Tests
 
