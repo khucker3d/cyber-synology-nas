@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/hardware-ds223.JPG" alt="Synology DS223 hardware" width="440" height="587">
+<img src="images/hardware-ds223.JPG" alt="Synology DS223 hardware" width="400"> 
 </p>
 
 <p align="center">
@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/access-SMB%20%7C%20QuickConnect-lightgrey" alt="Access">
   <img src="https://img.shields.io/badge/documentation-complete-success" alt="Documentation">
 </p>
+
+## Access Gallery
+
+| Windows OS | Mac OS | iPhone
+|----------------------|-----------------------|-----------------------|
+| <img src="images/cloud-pc.png" alt="Synology cloud access from Windows" width="500"> | <img src="images/cloud-mac.png" alt="Synology cloud access from macOS" width="500"> | <img src="images/iphone-cloud.png" alt="Synology cloud access from iPhone" width="150"> 
 
 This project demonstrates storage deployment, network integration, account hardening, SMB configuration, remote access, health monitoring, configuration backup, and recovery planning.
 
@@ -68,7 +74,7 @@ Managed Switch
 | Volume | Single DSM volume |
 | Network | Managed trusted LAN |
 | NAS hostname | `nas-storage-01` |
-| NAS address | `192.168.50.30` |
+| NAS address | `192.168.50.30` |<img src="images/hardware-ds223.JPG" alt="Synology DS223 hardware" width="440" height="587">
 | Administrator | `nasadmin` |
 | Standard user | `nasuser` |
 | Shared folder | `Personal` |
