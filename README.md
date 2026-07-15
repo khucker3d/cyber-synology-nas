@@ -112,10 +112,10 @@ Managed Switch
 
 ## Documentation
 
-- [Complete Setup Guide](docs/01-setup.md)
-- [Validation and Troubleshooting](docs/02-troubleshooting.md)
-- [Security and Best Practices](docs/03-security-and-best-practices)
-- [Backup and Recovery Roadmap](docs/04-backup-roadmap.md)
+1. Complete Setup Guide](docs/01-setup.md)
+2. [Validation and Troubleshooting](docs/02-troubleshooting.md)
+3. [Security and Best Practices](docs/03-security-and-best-practices.md)
+4. [Backup and Recovery Roadmap](docs/04-backup-roadmap.md)
 
 ## Current Limitation
 
