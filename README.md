@@ -112,7 +112,7 @@ Managed Switch
 
 ## Documentation
 
-- [Complete Setup Guide](docs/setup-guide.md)
+- [Complete Setup Guide](docs/01-setup.md)
 - [Security and Best Practices](docs/security-and-best-practices.md)
 - [Validation and Troubleshooting](docs/validation-and-troubleshooting.md)
 - [Backup and Recovery Roadmap](docs/backup-roadmap.md)
