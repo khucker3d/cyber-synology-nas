@@ -1,12 +1,20 @@
-# Synology NAS Personal Cloud
+<h1 align="center">Synology NAS Personal Cloud</h1>
 
-![Status](https://img.shields.io/badge/status-operational-success)
-![Platform](https://img.shields.io/badge/platform-Synology%20DSM-blue)
-![Storage](https://img.shields.io/badge/storage-SHR-informational)
-![Access](https://img.shields.io/badge/access-SMB%20%7C%20QuickConnect-lightgrey)
-![Documentation](https://img.shields.io/badge/documentation-complete-success)
+<p align="center">
+  A secure, cross-platform personal cloud and shared-storage deployment built with a two-bay Synology NAS, a NAS-rated hard drive, and a managed home network.
+</p>
 
-A secure, cross-platform personal cloud and shared-storage deployment built with a two-bay Synology NAS, a NAS-rated hard drive, and a managed home network.
+<p align="center">
+  <img src="images/hardware-ds223.JPG" alt="Synology DS223 hardware" width="440" height="587">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-operational-success" alt="Status">
+  <img src="https://img.shields.io/badge/platform-Synology%20DSM-blue" alt="Platform">
+  <img src="https://img.shields.io/badge/storage-SHR-informational" alt="Storage">
+  <img src="https://img.shields.io/badge/access-SMB%20%7C%20QuickConnect-lightgrey" alt="Access">
+  <img src="https://img.shields.io/badge/documentation-complete-success" alt="Documentation">
+</p>
 
 This project demonstrates storage deployment, network integration, account hardening, SMB configuration, remote access, health monitoring, configuration backup, and recovery planning.
 
