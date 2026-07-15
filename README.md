@@ -50,14 +50,10 @@ Managed Security Gateway
 Managed Switch
    |
    +-- Synology NAS
-   |     Hostname: nas-storage-01
-   |     IP: 192.168.50.30
    |
    +-- Network Utility Server
-   |     IP: 192.168.50.25
    |
    +-- Management Controller
-   |     IP: 192.168.50.3
    |
    +-- Windows Workstation
    |
@@ -68,15 +64,15 @@ Managed Switch
 
 | Component | Sanitized example |
 |---|---|
-| NAS | Two-bay Synology NAS |
-| Internal drive | 4 TB NAS-rated SATA HDD |
+| NAS | [Two-bay Synology NAS](amazon.com/dp/B0BRNBVTJK?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2) |
+| Internal drive | [4 TB NAS-rated SATA HDD](https://www.amazon.com/dp/B08VH8C3WZ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | Storage pool | Synology Hybrid RAID |
 | Volume | Single DSM volume |
 | Network | Managed trusted LAN |
-| NAS hostname | `nas-storage-01` |
-| NAS address | `192.168.50.30` |<img src="images/hardware-ds223.JPG" alt="Synology DS223 hardware" width="440" height="587">
-| Administrator | `nasadmin` |
-| Standard user | `nasuser` |
+| NAS hostname | `nas-storage-device-01` |
+| NAS address | `192.168.50.30` |
+| Administrator | `nasadminid` |
+| Standard user | `nasuserid` |
 | Shared folder | `Personal` |
 
 ## Implemented Controls
